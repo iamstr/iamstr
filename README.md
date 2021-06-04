@@ -1,7 +1,10 @@
-### Hi there 👋
-:earth_africa Ask me about [www.iamstr.github.io]
+# Hi there 👋 i'm satar
+⚡Currently working with react and everything to do with javascript 🥶
+
+🌍 Check me out  [heree](www.iamstr.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstr&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=iamstr&color=brightgreen&label=PROFILE+VIEWS)
 
 
 
