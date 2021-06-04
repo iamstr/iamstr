@@ -1,11 +1,11 @@
-# Hi there 👋 i'm satar
+ # Hi there 👋 i'm satar
 ⚡Currently working with react and everything to do with javascript 🥶
 
-🌍 Check me out  [Here](https://iamstr.github.io/)
+&nbsp;🌍 Check me out  [Here](https://iamstr.github.io/)
 
-## 📫 How to reach me  
+ ## 📫 How to reach me  
 
-[<img src="./iconfinder_294709_circle_twitter_icon_64px.png" alt="twitter" width="32"/>](https://twitter.com/iamsatarmovic)  &nbsp; 
+&nbsp; [<img src="./iconfinder_294709_circle_twitter_icon_64px.png" alt="twitter" width="32"/>](https://twitter.com/iamsatarmovic)  &nbsp; 
 [<img src="./iconfinder_2993766_instagram_social media_icon_64px.png" alt="instagram" width="32"/>](https://www.instagram.com/iamsatarmovic/) &nbsp;
 [<img src="./iconfinder_317725_linkedin_social_icon_64px.png" alt="linkedin" width="32"/>](https://www.linkedin.com/in/abdisatar-mohamed-8ab02714a/) &nbsp;
 [<img src="./2190981-64.png" alt="mail" width="32"/>](https://mailto:asatar1994@gmail.com)
