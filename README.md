@@ -1,9 +1,11 @@
 # Hi there 👋 i'm satar
 ⚡Currently working with react and everything to do with javascript 🥶
 
-🌍 Check me out  [heree](https://iamstr.github.io/)
+🌍 Check me out  [Here](https://iamstr.github.io/)
 
+📫 How to reach me ![twitter](https://twitter.com/home)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstr&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=iamstr&color=brightgreen&label=PROFILE+VIEWS)
 
 
