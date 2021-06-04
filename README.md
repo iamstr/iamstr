@@ -3,7 +3,9 @@
 
 🌍 Check me out  [Here](https://iamstr.github.io/)
 
-📫 How to reach me  <img src="./iconfinder_294709_circle_twitter_icon_64px.png" alt="twitter" width="24"/>
+## 📫 How to reach me  
+
+[https://twitter.com/iamsatarmovic]<img src="./iconfinder_294709_circle_twitter_icon_64px.png" alt="twitter" width="24"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstr&show_icons=true&theme=radical)
 
