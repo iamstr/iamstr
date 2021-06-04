@@ -1,4 +1,11 @@
 ### Hi there 👋
+:earth_africa Ask me about [www.iamstr.github.io]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstr&show_icons=true&theme=radical)
+
+
+
+
 
 <!--
 **iamstr/iamstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
