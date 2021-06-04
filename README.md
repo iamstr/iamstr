@@ -3,7 +3,7 @@
 
 🌍 Check me out  [Here](https://iamstr.github.io/)
 
-📫 How to reach me ![twitter](./iconfinder_4102580_applications_media_social_twitter_icon_512px.png)
+📫 How to reach me ![twitter](./294709-32.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstr&show_icons=true&theme=radical)
 
