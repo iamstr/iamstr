@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamsatarmovic" target="blank"><img src="https://img.shields.io/twitter/follow/iamsatarmovic?logo=twitter&style=for-the-badge" alt="iamsatarmovic" /></a> </p>
 
-- 🔭 I’m currently working on [ewajibu](http://ewajibu.zakeiragencies.co.ke)
+- 🔭 I’m currently working on [edaji](http://edaji.co.ke)
 
 - 🌱 I’m currently learning **Data Structures,Nextjs,Gatsby**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **css,sass,js ,react,ts**
 
-- 📫 How to reach me **asatar1994@gmail.com**
+- 📫 How to reach me **iamsatarofficial@gmail.com**
 
 - 📄 Know about my experiences [iamstr.github.io](iamstr.github.io)
 
